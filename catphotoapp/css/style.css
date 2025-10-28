@@ -1,0 +1,22 @@
+body{
+    background-color: rgba(86, 53, 186, 0.736);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+color:aliceblue;
+max-width: 900 px;
+}
+#catone, #lasagna, #twocats  {
+   width: 400px;
+   
+}
+
+ h1, h2, h3 {
+    text-align: center;
+ }
+
+ p {
+    text-align: center;
+ }
+
+a:link {
+    color: rgb(218, 185, 239);
+}
