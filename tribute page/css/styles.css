@@ -1,0 +1,33 @@
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+
+}
+
+#main {
+  background-color: #C9B48B;
+  max-width: 1000px
+}
+
+h1 {
+  text-align: center;
+  color: #9D604B;
+}
+
+#divider {
+  width: auto;
+  height: 20px;
+  background-color: #9D604B;
+}
+
+#img-caption {
+  color: #6D211C;
+  text-align: justify left;
+  
+}
+
+#tribute-info {
+  padding: 3px 5px;
+  color: #6D211C;
+}
